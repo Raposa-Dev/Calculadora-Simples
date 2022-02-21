@@ -8,6 +8,8 @@ Uma calculadora simples criado com HTML, CSS, JS;
 
 Calcula apenas * / ** - + ** (- * + / **)
 
+Acessar projeto online clique [aqui](https://raposa-dev.github.io/Calculadora-Simples/);
+
 # Pré-Requisitos
 
 ---
